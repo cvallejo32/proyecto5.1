@@ -1,0 +1,22 @@
+{
+  "name": "proyecto5.1",
+  "version": "1.0.0",
+  "description": "proyect 5.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cvallejo32/proyecto5.1.git"
+  },
+  "author": "Cristobal Vallejo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cvallejo32/proyecto5.1/issues"
+  },
+  "homepage": "https://github.com/cvallejo32/proyecto5.1#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
